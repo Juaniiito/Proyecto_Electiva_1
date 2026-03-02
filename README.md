@@ -4,8 +4,11 @@ Esta aplicación móvil para Android, desarrollada como proyecto universitario, 
 
 Autor(es): Juan Manuel Ducuara Soache
 
-## Referencias
-
+## Referencias Para el Proyecto
+- [Todoist App](https://www.todoist.com/es)
+- [Microsoft To Do](https://to-do.office.com/tasks/)
+- [Tick Tick](https://ticktick.com/)
+## Documentos
 - [Ideas iniciales de proyecto](docs/ideas.md)
 - [Funcionalidades de la aplicación](docs/funcionalidades.md)
 - [Diseño de la interfaz de usuario](docs/ui.md)
