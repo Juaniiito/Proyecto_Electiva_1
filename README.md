@@ -1,8 +1,8 @@
-# Nombre de la aplicación
+# Metodo Cosecha
 
-Reemplace este texto con una descripción de su aplicación. Revise el archivo [HELP.md](HELP.md) donde hay mas información sobre como usar esta plantilla.
+Esta aplicación móvil para Android, desarrollada como proyecto universitario, ofrece una solución completa para la gestión eficiente de tareas personales y académicas. Su diseño minimalista y funcional permite a los usuarios organizar sus actividades diarias con un enfoque estructurado y tambien profesional.
 
-Autor(es): Nombre del estudiante
+Autor(es): Juan Manuel Ducuara Soache
 
 ## Referencias
 
