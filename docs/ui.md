@@ -4,7 +4,7 @@ La aplicación tendrá la siguientes pantallas, Una de Inicio; Crear tarea y un 
 
 1. Pantalla 1: INICIO
 
-![screen1](Imagenes/image.jpg)
+![screen1](Imagenes/image.png)
 
 # Referencias
 
