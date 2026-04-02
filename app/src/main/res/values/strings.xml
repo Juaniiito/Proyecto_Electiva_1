@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Proyecto_Electiva_1</string>
+    <string name="saludo">Hola Pedro Navajas</string>
+    <string name="buscar_tarea">Buscar Tarea</string>
+    <string name="tareas_completadas_hoy">Todas las tareas de hoy están completadas</string>
+    <string name="hoy">Hoy</string>
+    <string name="manana">Mañana</string>
+    <string name="durante_semana">Durante la Semana</string>
+    <string name="desayuno">Desayuno con Sofia</string>
+    <string name="presentacion">Presentación proyecto</string>
+    <string name="parcial">Parcial de calculo</string>
+    <string name="veterinario">Cita de Toby con Veterinario</string>
+    <string name="agregar_tarea">+ Agregar Tarea</string>
+    <string name="siguiente">Siguiente →</string>
+    <string name="horario_desayuno">8:10 am</string>
+    <string name="horario_presentacion">10:00 am</string>
+    <string name="horario_parcial">6:30 pm</string>
+    <string name="fecha_veterinario">05/03/2026</string>
+
+    <string name="Adelanto_proyecto">¡Adelanto del Proyecto!</string>
+    <string name="proxima">Próximamente: Más funcionalidades</string>
+    <string name="Recordatorio">- Recordatorios con notificaciones\n- Categorías personalizadas\n- Modo oscuro\n- Sincronización en la nube\n- Widgets en pantalla principal</string>
+    <string name="Volver">← Volver</string>
+
+</resources>
