@@ -2,7 +2,7 @@
 
 Aplicación móvil para Android desarrollada en Kotlin que ofrece una solución completa para la gestión eficiente de tareas personales y académicas. Su diseño minimalista y funcional permite a los usuarios organizar sus actividades diarias con un enfoque estructurado y profesional.
 
-**Autor:** Juan Manuel Ducuara Soache
+**Autores:** Juan Manuel Ducuara Soache - Jaider Ronaldo Babativa Rios
 
 ---
 
