@@ -20,7 +20,6 @@ El proyecto se encuentra en fase de desarrollo temprano. Actualmente se ha imple
 |---------------|--------|-------------|
 | 📋 Visualización de tareas | ✅ Completado | Pantalla principal con tareas organizadas por categorías (Hoy, Mañana, Durante la semana) |
 | ✅ Checkbox interactivos | ✅ Completado | Permite marcar/desmarcar tareas completadas con retroalimentación visual |
-| 🔔 Toast de confirmación | ✅ Completado | Notificaciones temporales al completar o desmarcar tareas |
 | 🧭 Navegación entre pantallas | ✅ Completado | Botón "Siguiente" que navega a una pantalla de adelanto |
 | ↩️ Botón de retorno | ✅ Completado | Pantalla de adelanto con botón para volver a la pantalla principal |
 | 🎨 Interfaz de usuario | ✅ Completado | Diseño con CardView, colores por categoría y scroll vertical |
@@ -69,3 +68,15 @@ El proyecto se encuentra en fase de desarrollo temprano. Actualmente se ha imple
 ---
 
 ## 📁 Estructura del Proyecto
+App/src/main/
+├── java/com/clase/electiva_1_proyecto/
+│ ├── MainActivity.kt           # Pantalla principal de tareas
+│ └── AvanceActivity.kt         # Pantalla de adelanto
+├── res/
+│ ├── layout/
+│ │ ├── activity_main.xml       # Layout principal
+│ │ └── activity_avance.xml     # Layout de adelanto
+│ └── values/
+│ ├── strings.xml               # Textos de la aplicación
+│ └── themes.xml                # Estilos y temas
+└── AndroidManifest.xml         # Configuración de la app
