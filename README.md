@@ -1,4 +1,4 @@
-# 📱 Metodo Cosecha - Task Manager
+# 📱 Metodo Cosecha 
 
 Aplicación móvil para Android desarrollada en Kotlin que ofrece una solución completa para la gestión eficiente de tareas personales y académicas. Su diseño minimalista y funcional permite a los usuarios organizar sus actividades diarias con un enfoque estructurado y profesional.
 
@@ -44,7 +44,7 @@ El proyecto se encuentra en fase de desarrollo temprano. Actualmente se ha imple
 | 📅 Calendario integrado | Media | Vista de calendario para visualizar tareas por fecha |
 | 🏷️ Categorías personalizadas | Media | Crear y gestionar categorías propias |
 
-### Versión 2.0 (Futuro)
+### Versión 2.0 (Final)
 | Funcionalidad | Prioridad | Descripción |
 |---------------|-----------|-------------|
 | 🌙 Modo oscuro | Baja | Tema oscuro para la aplicación |
