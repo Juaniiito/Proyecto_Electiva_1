@@ -1,13 +1,13 @@
 # Funcionalidades
 
-Para el proyecto es importante elegir funcionalidades técnicas que sean realistas y abordables demostrando nuestro desarrollo considerando sus desafíos. La siguiente es una lista de las funcionalidades:
+Para el proyecto es importante elegir funcionalidades técnicas que sean realistas y abordables demostrando nuestro desarrollo considerando sus desafíos. La siguiente es una lista de las funcionalidades que nuestra aplicación debe cumplir:
 
-*Principales:
+## Principales:
 1. Creación, edición y eliminación de tareas de forma intuitiva
 2. Asignación de fechas límite y niveles de prioridad
 3. Descripciones detalladas para cada actividad
    
-*Detalladas - Avanzadas:
+## Detalladas - Avanzadas:
 1. Tareas recurrentes: Configuración de repeticiones diarias, semanales o personalizadas para hábitos y obligaciones periódicas
 2. Visualización de estadísticas básicas como rachas de productividad y porcentaje de tareas completadas
 3. Subtareas: Desglose de proyectos complejos en pasos más pequeños y manejables
@@ -16,7 +16,7 @@ Para el proyecto es importante elegir funcionalidades técnicas que sean realist
 
 # Restricciones
 
-Para el proyecto es importante elegir restricciones técnicas que sean realistas y abordables pero que demuestren nuestro desarrollo considerando los desafíos del desarrollo. La siguiente es una lista:
+Para el proyecto es importante elegir restricciones técnicas que sean realistas y abordables pero que demuestren nuestro desarrollo considerando los desafíos del desarrollo. La siguiente es una lista de restricciones que la aplicación debe cumplir:
 
 1. La aplicación será compatible con Android 7.0 (Nougat) en adelante que cubre aproximadamente el 85% de los dispositivos actuales sin tener que implementar compatibilidad con versiones muy antiguas
 2. La aplicación estará diseñada exclusivamente para teléfonos móviles, no para tablets lo que evita la complejidad adicional de diseñar layouts responsivos para diferentes tamaños de pantalla
