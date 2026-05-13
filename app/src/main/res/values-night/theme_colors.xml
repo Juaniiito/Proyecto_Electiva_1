@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_theme_primary_night">#D0BCFF</color>
+    <color name="md_theme_onPrimary_night">#381E72</color>
+    <color name="md_theme_primaryContainer_night">#4F378B</color>
+    <color name="md_theme_onPrimaryContainer_night">#EADDFF</color>
+    <color name="md_theme_secondary_night">#CCC2DC</color>
+    <color name="md_theme_onSecondary_night">#332D41</color>
+</resources>
